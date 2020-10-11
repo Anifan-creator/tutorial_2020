@@ -14,7 +14,7 @@
 */
 
 //函数头文件
-#include"LED_Distinguish.h"
+#include "LED_Distinguish.h"
 
 
 char file_name[] = "sim_samples/sim_sample2.jpg";
